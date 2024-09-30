@@ -1,0 +1,80 @@
+h1 {
+    text-align: center;
+    border: solid;
+    padding: 40px;
+    background-color: #95A78D;
+    color: white;
+    margin: auto;
+}
+
+h3 {
+    text-align: center;
+    border: solid;
+    padding: 15px;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-top: auto;
+    background: #CACBCB;
+
+}
+
+table {
+    margin: auto;
+    padding: 40px;
+    background-color: #ff007f;
+    width: 100%;
+}
+
+.second-table {
+    background-color: #00ffff;
+    margin: none;
+    padding: 0px;
+    align-items: center;
+}
+
+td {
+    border: solid;
+    padding: 100px;
+    text-align: center;
+}
+
+th {
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+body {
+    background-color: #1c1c1c;
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    color: #00ffff;
+    text-decoration: none;
+    font-weight: bold; 
+}
+
+a:hover {
+    color: yellow;
+}
+
+p {
+    color: #00ffff;
+    margin-left: 75px;
+    margin-right: 75px;
+}
+
+
+button {
+    border: solid;
+    padding: 2px;
+}
+
+.third-table {
+    background-color: black;
+    margin: none;
+    padding: 0px;
+    align-items: center;
+    border: solid white;
+}
